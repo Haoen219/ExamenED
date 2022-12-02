@@ -1,0 +1,3 @@
+Una de las caracteristicas de git es que facilita la posibilidad de trabajar
+varias personas en un proyecto grande y complicado in preocuparte de que alguien
+borre, modifique o elimine algo indeseado.
